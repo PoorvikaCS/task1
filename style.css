@@ -1,0 +1,35 @@
+#message{
+    border:3px solid rgb(54, 54, 201) ;
+    width: 550px;
+    height: 500px;
+    background-color: rgb(53, 174, 160);
+}
+
+.sit{
+    border: 2px solid rgb(135, 43, 43);
+    width: 500px;
+    height: 80px;
+    background-color: rgb(198, 163, 128);
+}
+.book{
+    border: 2px solid rgb(33, 130, 209);
+    width: 500px;
+    height: 250px;
+    background-color: rgb(15, 191, 100);
+}
+h2{
+    border: 2px solid rgb(24, 116, 105);
+    width: 400px;
+    height: 30px;
+    background-color: rgb(214, 85, 214);
+}
+h3{
+    border: 2px solid rgb(144, 162, 10);
+    width: 400px;
+    height: 100px;
+    background-color: rgb(29, 108, 174);
+}
+body{
+ display: grid;
+ justify-content: center;
+}
